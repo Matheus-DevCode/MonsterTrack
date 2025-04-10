@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Regras\DadosRecebido;
+use App\Models\Services\DadosRecebido;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 

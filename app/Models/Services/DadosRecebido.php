@@ -1,11 +1,7 @@
 <?php
 
-namespace App\Models\Regras;
+namespace App\Models\Services;
 
-use App\Models\Facade\DadosTreino;
-use App\Models\Facade\GeradorDePdf;
-use App\Models\Facade\MenuButtons;
-use App\Models\Services\TelegramService;
 use Illuminate\Contracts\Container\BindingResolutionException;
 use JsonException;
 

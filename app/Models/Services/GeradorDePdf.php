@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Facade;
+namespace App\Models\Services;
 
 use Barryvdh\DomPDF\PDF;
 use Illuminate\Contracts\Container\BindingResolutionException;
